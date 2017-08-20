@@ -7,7 +7,7 @@ public class Hangman {
     Scanner scanner = new Scanner(System.in);
 
   //Create an Array to store my words that the user should guess
-    String[] words = {"army", "orange", "dinosaur", "kitenge", "delamere","peel","chelsea"};
+    String[] words = {"army", "orange", "dinosaur", "kitenge", "delamere","peel"};
     boolean gamePlay = true;
 
   while (gamePlay) {
